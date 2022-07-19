@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F90AC93-D6E7-4612-B000-E7E80E6567C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MyLoginForm</RootNamespace>
+    <AssemblyName>MyLoginForm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Collections.Immutable.1.3.1\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.2\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Uno, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Diagnostics.Eventing, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.Diagnostics.Eventing.2.0.1\lib\netstandard2.0\Uno.Diagnostics.Eventing.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Foundation, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.Foundation.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Foundation.Logging, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.Foundation.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.Composition, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.Composition.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.Dispatching, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.Dispatching.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.FluentTheme, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.FluentTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.FluentTheme.v1, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.FluentTheme.v1.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.FluentTheme.v2, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.FluentTheme.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.UI.Toolkit, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.UI.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Uno.Xaml, Version=255.255.255.255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Uno.UI.4.1.9\lib\netstandard2.0\Uno.Xaml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboardForm.Designer.cs">
+      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminGrantPrivForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGrantPrivForm.Designer.cs">
+      <DependentUpon>AdminGrantPrivForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalcEstimate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalcEstimate.Designer.cs">
+      <DependentUpon>CalcEstimate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClaimReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClaimReport.Designer.cs">
+      <DependentUpon>ClaimReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientDashboardForm.Designer.cs">
+      <DependentUpon>ClientDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientTransfer.Designer.cs">
+      <DependentUpon>ClientTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsClaimDetails.cs" />
+    <Compile Include="clsClaimInformationDBH.cs" />
+    <Compile Include="clsClaims.cs" />
+    <Compile Include="clsDatabaseHandler.cs" />
+    <Compile Include="clsDBManager.cs" />
+    <Compile Include="clsDocuments.cs" />
+    <Compile Include="clsDocumentsDBH.cs" />
+    <Compile Include="clsCredentials.cs" />
+    <Compile Include="clsMessages.cs" />
+    <Compile Include="clsMessagesDBH.cs" />
+    <Compile Include="clsRegister.cs" />
+    <Compile Include="clsSettings.cs" />
+    <Compile Include="clsUser.cs" />
+    <Compile Include="clsUserProfileDBH.cs" />
+    <Compile Include="clsUserSettingsDBH.cs" />
+    <Compile Include="CMDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMDashboardForm.Designer.cs">
+      <DependentUpon>CMDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocumentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocumentsForm.Designer.cs">
+      <DependentUpon>DocumentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileClaim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileClaim.Designer.cs">
+      <DependentUpon>FileClaim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileClaim2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileClaim2.Designer.cs">
+      <DependentUpon>FileClaim2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMDashboardForm.Designer.cs">
+      <DependentUpon>FMDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBlankMsg.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBlankMsg.Designer.cs">
+      <DependentUpon>UserControlBlankMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlMessages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlMessages.Designer.cs">
+      <DependentUpon>UserControlMessages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewProfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewProfiles.Designer.cs">
+      <DependentUpon>ViewProfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileEditForm.Designer.cs">
+      <DependentUpon>ProfileEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessagesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessagesForm.Designer.cs">
+      <DependentUpon>MessagesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileForm.Designer.cs">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleForm.Designer.cs">
+      <DependentUpon>ScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsEditForm.Designer.cs">
+      <DependentUpon>SettingsEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TEAM_BDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TEAM_BDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBlank.Designer.cs">
+      <DependentUpon>UserControlBlank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDays.Designer.cs">
+      <DependentUpon>UserControlDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsUsersAdminDBH.cs" />
+    <Compile Include="ViewClaims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewClaims.Designer.cs">
+      <DependentUpon>ViewClaims.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewUsers.Designer.cs">
+      <DependentUpon>ViewUsers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminDashboardForm.resx">
+      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminGrantPrivForm.resx">
+      <DependentUpon>AdminGrantPrivForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalcEstimate.resx">
+      <DependentUpon>CalcEstimate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClaimReport.resx">
+      <DependentUpon>ClaimReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientDashboardForm.resx">
+      <DependentUpon>ClientDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientTransfer.resx">
+      <DependentUpon>ClientTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMDashboardForm.resx">
+      <DependentUpon>CMDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocumentsForm.resx">
+      <DependentUpon>DocumentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileClaim.resx">
+      <DependentUpon>FileClaim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileClaim2.resx">
+      <DependentUpon>FileClaim2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMDashboardForm.resx">
+      <DependentUpon>FMDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileEditForm.dje.resx">
+      <DependentUpon>ProfileEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBlankMsg.resx">
+      <DependentUpon>UserControlBlankMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlMessages.resx">
+      <DependentUpon>UserControlMessages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewProfiles.resx">
+      <DependentUpon>ViewProfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileEditForm.resx">
+      <DependentUpon>ProfileEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessagesForm.resx">
+      <DependentUpon>MessagesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileForm.resx">
+      <DependentUpon>ProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScheduleForm.resx">
+      <DependentUpon>ScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsEditForm.resx">
+      <DependentUpon>SettingsEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBlank.resx">
+      <DependentUpon>UserControlBlank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDays.resx">
+      <DependentUpon>UserControlDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewClaims.resx">
+      <DependentUpon>ViewClaims.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewUsers.resx">
+      <DependentUpon>ViewUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Insurance Claim Management System Class Diagram.vsdx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TEAM_BDataSet.xsc">
+      <DependentUpon>TEAM_BDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TEAM_BDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TEAM_BDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TEAM_BDataSet.xss">
+      <DependentUpon>TEAM_BDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eye_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eye_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carbrella.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carbrella %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bust.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brief.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dialogue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Carbrella_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-leftW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-rightW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\Uno.SourceGenerationTasks.4.0.2\build\netstandard1.0\Uno.SourceGenerationTasks.targets" Condition="Exists('packages\Uno.SourceGenerationTasks.4.0.2\build\netstandard1.0\Uno.SourceGenerationTasks.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Uno.SourceGenerationTasks.4.0.2\build\netstandard1.0\Uno.SourceGenerationTasks.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Uno.SourceGenerationTasks.4.0.2\build\netstandard1.0\Uno.SourceGenerationTasks.targets'))" />
+  </Target>
+</Project>
