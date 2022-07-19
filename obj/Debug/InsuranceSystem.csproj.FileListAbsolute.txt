@@ -1,0 +1,931 @@
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ClientHomepage.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ClaimsForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\jcourts\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\jcourts\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ClaimsForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ClientHomepage.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\maddie\source\repos\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\maddie\source\repos\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\maddie\source\repos\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.ClaimsForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.ClientHomepage.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ClaimsForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ClientHomepage.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\Connor Gallun\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.ClaimsForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.ClientHomepage.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\msneely\OneDrive - Butler University\SE361\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ClaimsForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ClientHomepage.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\arcrozie\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\jcourts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow1\Project\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\maddie\source\repos\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\Jonathan Courts\Source\Repos\Sparrow\Project\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.exe
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.exe
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\iaustin\source\repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SecurityQuestions.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SecurityQuestions.resources
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.SecurityQuestions.resources
+C:\Users\iaustin\Source\Repos\arcrozie\sparrow1\Project\obj\Debug\MyLoginForm.lblUserId.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.SecurityQuestions.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\iaustin\Source\Repos\arcrozie\Sparrow0\Project\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\maddie\Source\Repos\arcrozie\Sparrow\Project\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\msneely\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\msneely\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SecurityQuestions.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileCarousel.resources
+C:\Users\msneely\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\lukap\source\repos\Sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\lukap\source\repos\Sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\lukap\source\repos\Sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\InsuranceSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ClaimReportEdit.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\lukap\source\repos\Sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ClaimReportEdit.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.DashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\msneely\sparrow2.1\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Buffers.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Memory.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Foundation.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Composition.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Xaml.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Buffers.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Memory.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Buffers.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Memory.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Foundation.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Composition.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Xaml.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Buffers.xml
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Memory.xml
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Buffers.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Memory.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.Foundation.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.Composition.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.Xaml.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Buffers.xml
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Memory.xml
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Buffers.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Memory.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Foundation.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Composition.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Xaml.dll
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Buffers.xml
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Memory.xml
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientViewClaims.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientViewClaims.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Buffers.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Memory.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.Foundation.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Composition.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.Xaml.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Buffers.xml
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Memory.xml
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\MyLoginForm.exe.config
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\MyLoginForm.exe
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\MyLoginForm.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Buffers.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Collections.Immutable.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Memory.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.Foundation.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.Composition.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.Xaml.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Buffers.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Collections.Immutable.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Memory.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\MyLoginForm.exe.config
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\MyLoginForm.exe
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\MyLoginForm.pdb
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Buffers.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Memory.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.Foundation.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Composition.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.Xaml.dll
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Buffers.xml
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Memory.xml
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\jcourts\Source\Repos\sparrow2\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientViewClaims.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ForgotPassForm2.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.welcomeForm.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.exe
+C:\Users\jcourts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.pdb
+C:\Users\maddie\source\repos\msneely\sparrow2\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\maddie\source\repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\maddie\source\repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\jcourts\source\repos\sparrow2\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\jcourts\source\repos\sparrow2\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\Connor Gallun\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessageFormListBoxView.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.MessageFormListBoxView.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessageFormListBoxView.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.MessageFormListBoxView.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.MessageFormListBoxView.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\bin\Debug\dje\MyLoginForm.resources.dll
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.dje.resources
+C:\Users\Jonathan Courts\Source\Repos\sparrow2\obj\Debug\dje\MyLoginForm.resources.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\bin\Debug\dje\MyLoginForm.resources.dll
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.dje.resources
+C:\Users\maddie\Source\Repos\msneely\sparrow2\obj\Debug\dje\MyLoginForm.resources.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\bin\Debug\dje\MyLoginForm.resources.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.dje.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow2\obj\Debug\dje\MyLoginForm.resources.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\bin\Debug\dje\MyLoginForm.resources.dll
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\MyLoginForm.ProfileEditForm.dje.resources
+C:\Users\iaustin\Source\Repos\msneely\sparrow23\obj\Debug\dje\MyLoginForm.resources.dll
+C:\Users\iaustin\Source\Repos\sparrow2\bin\Debug\dje\MyLoginForm.resources.dll
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\MyLoginForm.ProfileEditForm.dje.resources
+C:\Users\iaustin\Source\Repos\sparrow2\obj\Debug\dje\MyLoginForm.resources.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\MyLoginForm.exe.config
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\MyLoginForm.exe
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\MyLoginForm.pdb
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\dje\MyLoginForm.resources.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Buffers.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Memory.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.Foundation.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.Composition.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.Xaml.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Buffers.xml
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Memory.xml
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\jcourts\source\Repos\InsuranceSystem\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\InsuranceSystem.csproj.AssemblyReference.cache
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.AdminDashboardForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.AdminGrantPrivForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.CalcEstimate.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ClaimReport.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ClientDashboardForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ClientTransfer.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.CMDashboardForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.DocumentsForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.FileClaim.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.FileClaim2.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.FMDashboardForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.UserControlBlankMsg.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.UserControlMessages.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ViewClients.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ProfileEditForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.MessagesForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ProfileForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.HomePage.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.registerForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.LoginForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.Properties.Resources.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ScheduleForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.SettingsEditForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.SettingsForm.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.UserControlBlank.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.UserControlDays.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ViewClaims.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ViewUsers.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.ProfileEditForm.dje.resources
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\InsuranceSystem.csproj.GenerateResource.cache
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\InsuranceSystem.csproj.CoreCompileInputs.cache
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\dje\MyLoginForm.resources.dll
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\InsuranceSystem.csproj.CopyComplete
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.exe
+C:\Users\jcourts\source\Repos\InsuranceSystem\obj\Debug\MyLoginForm.pdb
